@@ -1,0 +1,1 @@
+/Users/lewisfairweather/mysimplecounter/target/wasm32-unknown-unknown/release/libmysimplecounter.rlib: /Users/lewisfairweather/mysimplecounter/src/contract.rs /Users/lewisfairweather/mysimplecounter/src/lib.rs /Users/lewisfairweather/mysimplecounter/src/msg.rs /Users/lewisfairweather/mysimplecounter/src/state.rs
